@@ -1,0 +1,21 @@
+database/data.json:
+ 
+[
+{
+"id":  1,
+"title":  "Central  Downtown  Apartment  with  Amenities", "address":  "1023 st John Thomas Masachusets",
+"about":  "...", "amenity_wifi":  true, "amenity_pets_allowed":  false, "amenity_tv":  true, "amenity_kitchen":  true, "amenity_breakfast":  true, "amenity_laptop":  true, "price_per_night":  "$89", "price_extra_people":  "No  charge", "price_weekly_discount":  "18%", "price_monthly_discount":  "50%",
+},
+{
+"id":  2,
+"title":  "Central  Downtown  Apartment  with  Parking", "address":  "1023 st John Thomas Masachusets",
+"about":  "...", "amenity_wifi":  true, "amenity_pets_allowed":  true, "amenity_tv":  true, "amenity_kitchen":  true, "amenity_breakfast":  true, "amenity_laptop":  true, "price_per_night":  "$99", "price_extra_people":  "No  charge", "price_weekly_discount":  "13%", "price_monthly_discount":  "40%",
+
+},
+{
+"id":  3,
+"title":  "Central  Downtown  Apartment  with  Terrace", "address":  "1023 st John Thomas Masachusets",
+"about":  "...", "amenity_wifi":  true, "amenity_pets_allowed":  true, "amenity_tv":  true, "amenity_kitchen":  true, "amenity_breakfast":  true, "amenity_laptop":  true, "price_per_night":  "$129", "price_extra_people":  "Yes  charge", "price_weekly_discount":  "28%", "price_monthly_discount":  "90%",
+
+}
+]
